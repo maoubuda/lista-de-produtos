@@ -1,0 +1,48 @@
+.header {
+  background-color: #007bff;
+  padding: 20px;
+}
+
+.title {
+  margin: 0;
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Restante do código CSS permanece o mesmo */
+
+.product-list {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.product {
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product-title {
+  margin-top: 0;
+}
+
+.product-description {
+  margin-bottom: 10px;
+}
+
+.product-price {
+  font-weight: bold;
+}
+
+.divider {
+  margin-top: 20px;
+}
